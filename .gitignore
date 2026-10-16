@@ -1,0 +1,5 @@
+   *.pem
+   settings.xml
+   .env
+   *.zip
+   target/
